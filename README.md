@@ -7,7 +7,7 @@ Software Engineer and Music Fan
 I am a Finance and Maths graduate from York University in Canada. I have over 3 years of enterprise grade software integration experience, 2 years of web development experience, and I am currently working as a Software Engineer on distributed systems.
 
 *   🌍  I'm based in Canada
-*   ✉️  You can contact me at [hashmishaan@gmail.com](mailto:hashmishaan@gmail.com)
+*   ✉️  You can contact me at [hashmishaana@gmail.com](mailto:hashmishaan@gmail.com)
 *   🚀  I'm currently working on [Deployment Workflows at Radix Bio Labs](http://radix.bio)### Skills<p align="left">
                                 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
                                 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -34,10 +34,8 @@ I am a Finance and Maths graduate from York University in Canada. I have over 3 
                   
 <p align="left">
                           
-                      <a href="https://www.github.com/shaanhash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/shaanhashmi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/shaanhash"><img src="https://github-readme-stats.vercel.app/api?username=shaanhash&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shaanhash's GitHub stats" /></a><a
-                      href="http://www.github.com/shaanhash"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=shaanhash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a
-                      href="http://www.github.com/shaanhash"><img src="https://activity-graph.herokuapp.com/graph?username=shaanhash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="https://www.github.com/shaanhash" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/shaanhashmi" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+### Badges<b>My GitHub Stats</b>
+<a href="http://www.github.com/shaanhash"><img src="https://github-readme-stats.vercel.app/api?username=shaanhash&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="shaanhash's GitHub stats" /></a>
+<a href="http://www.github.com/shaanhash"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaanhash&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/shaanhash"><img src="https://activity-graph.herokuapp.com/graph?username=shaanhash&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
